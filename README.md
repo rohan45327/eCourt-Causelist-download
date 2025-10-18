@@ -40,7 +40,7 @@ sults table.
  1. In your terminal, navigate to the project folder.
  2. Run the Flask app:\
           python app.py
- 4. Openyour webbrowser and go to http://127.0.0.1:5000.
+ 4. Openyour webbrowser and go to http://127.0.0.1:5000.   (use this link or open the flask app in 5000 port only)
  ## 3 UsageInstructions
  ### 1. Fill out the form in your browser.
  #### CRITICAL: 
